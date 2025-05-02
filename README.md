@@ -1,2 +1,1 @@
-# python-codes
-Python Codes For Beginners 
+Guessthegame
